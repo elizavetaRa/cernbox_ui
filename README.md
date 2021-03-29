@@ -2,10 +2,6 @@
 
 # Redesigning CERNBox: concept of interaction design
 
-Figma prototype with demonstration of some improvements: https://www.figma.com/proto/It0zUbR8CUiYYJQnTnTO1J/List-operations?node-id=1%3A2&scaling=min-zoom
-
-
-
 ## 1. List operations
 
 List information and interaction design is the core for whole experience with the application.
